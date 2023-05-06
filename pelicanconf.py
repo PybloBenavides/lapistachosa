@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Nelson Chen'
-SITENAME = 'Pelican Action Demo'
+AUTHOR = 'Pablo Benavides'
+SITENAME = 'La Pistachosa'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'America/Phoenix'
+TIMEZONE = 'Europe/Madrid'
 
 DEFAULT_LANG = 'en'
 
